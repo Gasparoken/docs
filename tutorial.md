@@ -3,6 +3,7 @@
 * [Tutorials by Mort](#tutorials-by-mort)
 * [Tutorials by JebbyGD](#tutorials-by-jebbygd)
 * [Tutorials by advent1013](#tutorials-by-advent1013)
+* [Tutorials by Gaspar](#tutorials-by-gaspar)
 * [Common tasks and questions](#common-tasks-and-questions)
 
 ## Tutorials by Mort
@@ -35,6 +36,10 @@ Thanks to <a href="https://twitter.com/advent1013">@advent1013</a>
 
 * [Aseprite pixelart character creation and basic animation walkthrough](https://www.youtube.com/watch?v=cL_usZAFB4A)
 * [Aseprite pixelart character creation from tracing](https://www.youtube.com/watch?v=57dHdfClOqM)
+
+## Tutorials by Gaspar
+
+* [How to make glow effect in a shape](https://www.youtube.com/watch?v=9GQJgawFLjg)
 
 ## Common tasks and questions
 
